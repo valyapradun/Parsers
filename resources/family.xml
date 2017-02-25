@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<families 
+xmlns="http://www.myshema.by/FamilySchema2" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.myshema.by/FamilySchema2 FamilySchema2">
+	<family name="Ivanovy">
+		<mother>
+			<name>Lena</name>
+			<maiden-name>Sidorova</maiden-name>
+			<surname>Ivanova</surname>
+			<age>25</age>
+			<children count="1" />
+		</mother>
+		<father>
+			<name>Ivan</name>
+			<surname>Ivanov</surname>
+			<age>29</age>
+		</father>
+	</family>
+	<family name="Petrovy">
+		<mother>
+			<name>Mary</name>
+			<maiden-name>Sidorova</maiden-name>
+			<surname>Petrova</surname>
+			<age>28</age>
+			<children count="2" />
+		</mother>
+		<father>
+			<name>Misha</name>
+			<surname>Petrov</surname>
+			<age>33</age>
+		</father>
+	</family>
+</families>
